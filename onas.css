@@ -1,0 +1,52 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    line-height: 1.6;
+    background: rgb(85,148,186,1);
+
+}
+
+header {
+    background: rgb(85,148,186,1);
+    color: white;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+.container {
+    max-width: 960px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+
+main section {
+    margin-bottom: 30px;
+    color: white;
+
+}
+
+main h2 {
+    margin-bottom: 15px;
+    color: white;
+
+}
+
+main img {
+    max-width: 40%;
+    height: auto;
+    display: block;
+    margin: 0 auto; /* Center the image */
+}
+
+main ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+
+footer {
+    background: rgb(85,148,186,1);
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+}
